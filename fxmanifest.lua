@@ -1,10 +1,10 @@
 fx_version 'bodacious'
 game 'gta5'
 
-name 'FiveM Typescript Boilerplate'
-description 'A boilerplate for using Typescript in FiveM'
-author 'Remco Troost (d0p3t)'
-url 'https://github.com/d0p3t/fivem-ts-boilerplate'
+name 'Better Tire Slash'
+description 'An enhanced version of slashtires by xander1998'
+author 'ZachyFoxx'
+url 'https://github.com/ZachyFoxx/5m_better_tire_slash'
 
-client_script 'dist/client/*.client.js'
-server_script 'dist/server/*.server.js'
+client_script 'client/src/client.js'
+server_script 'server/src/server.js'
